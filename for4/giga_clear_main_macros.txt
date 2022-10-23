@@ -1,0 +1,8 @@
+.ascii
+.comm
+.file
+.ident
+.intel_syntax
+.section
+.string
+.text
